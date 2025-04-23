@@ -1,6 +1,4 @@
 
-## This Network Packet Analyzer is a tool designed to capture, analyze, and interpret network traffic, providing insights into network communication and potential security issues.
-
 ## Installation
 ### Clone the Repository
 ```bash
