@@ -1,6 +1,6 @@
 **Network-Analyzer** is a Python-based terminal tool that captures and analyzes live network traffic using [Scapy](https://scapy.net/). It displays real-time packet details like source/destination IPs, protocols, ports, and service names — all with clean, colorized output. Ideal for beginners learning network security, or anyone needing a quick packet-sniffing utility.
 
-##Features
+## Features
 
 - Live capture of TCP, UDP, ICMP, and IP packets
 - Automatic detection of common services (HTTP, SSH, DNS, etc.)
