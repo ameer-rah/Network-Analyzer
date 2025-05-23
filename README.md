@@ -91,5 +91,5 @@ Contributions are welcome! Here's how:
 4. Push to your branch (`git push origin feature/____`)
 5. Open a Pull Request 
 
-## 📄 License
+## License
 This project is open-source and available under the [MIT License](LICENSE)
